@@ -27,7 +27,7 @@
 
 <p align="center">
     <a href="https://www.codewars.com/users/shazkhan2">
-        <img src="https://github.r2v.ch/codewars?user=shazkhan2&name=true&top_languages=true&stroke=white&theme=gradient_left&hide_clan=true" />
+        <img src="https://github.r2v.ch/codewars?user=shazkhan2&name=true&top_languages=true&stroke=white&theme=gradient_dark_left&hide_clan=true" />
     </a>
 </p>
 
