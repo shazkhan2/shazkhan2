@@ -25,8 +25,9 @@
 
 ### My CodeWars Rank 🎖️
 
-<p align="center" >
-    <a href="URL:https://www.codewars.com/users/shazkhan2">
-      <img src="https://github.r2v.ch/codewars?user=shazkhan2&name=true&top_languages=true&stroke=white&theme=gradient_light&hide_clan=true" />
+<p align="center">
+    <a href="https://www.codewars.com/users/shazkhan2">
+        <img src="https://github.r2v.ch/codewars?user=shazkhan2&name=true&top_languages=true&stroke=white&theme=gradient_light&hide_clan=true" />
     </a>
 </p>
+
